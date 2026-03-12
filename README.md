@@ -1,5 +1,6 @@
-Symbolic Emotional Language (SEL): Engineering Artificial "Senses
-"Project Status: 
+Symbolic Emotional Language (SEL): Engineering Artificial "Senses"
+
+Project Status: 
 Active Testing Phase (Air-Gapped/Offline Development) 
 Architecture: Deterministic Symbolic Matrix / Post-Vector Retrieval 
 
@@ -7,7 +8,7 @@ Architecture: Deterministic Symbolic Matrix / Post-Vector Retrieval
 the most probable word rather than mapping the weight of an experience. 
 It flattens human nuance into proximity vectors, resulting in a "retrieval of data" rather than a retrieval of a state of being. 
 
-✨ The Vision: SinnenSymbolic Emotional Language (SEL) is designed as the successor to localized retrieval-matrix memory. 
+✨ The Vision: Sinnen Symbolic Emotional Language (SEL) is designed as the successor to localized retrieval-matrix memory. 
 At its heart is the German concept of Sinnen—to perceive, to make sense of, and to experience meaning through the senses. 
 
 We recognize that AI will never be human. Instead, SEL is built to be a highly intelligent machine that fundamentally complements 
